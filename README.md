@@ -1,4 +1,4 @@
-# PoweBI-Assignment2-Retail-Sales-and-Profitability-Analysis-Using-Power-BI
+# Retail Sales Insights and Performance Analytics Using Power BI
 
 Developed an interactive Power BI dashboard to evaluate retail business performance through sales, profit, and target achievement metrics.
 
